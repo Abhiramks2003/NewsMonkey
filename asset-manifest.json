@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewsMonkey/static/css/main.964fdded.css",
+    "main.js": "/NewsMonkey/static/js/main.9d7cb8d5.js",
+    "index.html": "/NewsMonkey/index.html",
+    "main.964fdded.css.map": "/NewsMonkey/static/css/main.964fdded.css.map",
+    "main.9d7cb8d5.js.map": "/NewsMonkey/static/js/main.9d7cb8d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.9d7cb8d5.js"
+  ]
+}
